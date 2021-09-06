@@ -1,0 +1,16 @@
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\Calculator.exe
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\Calculator.deps.json
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\Calculator.dll
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+E:\Atividades_Balta\Calculator\bin\Debug\net5.0\Calculator.pdb
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.dll
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.pdb
+E:\Atividades_Balta\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
